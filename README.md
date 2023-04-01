@@ -1,4 +1,4 @@
-# IMBD-Movie-Recommendor
+# IMDB-Movie-Recommendor
 
 My first ever project 
 From the set of data of movies,have made a recommendation system for the user based on Data Analysis.
